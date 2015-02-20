@@ -1,0 +1,24 @@
+body{
+	margin-top: 80px;
+}
+
+#main{
+	box-shadow: 0 0 8px #ccc;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	margin-bottom: 30px;
+}
+
+#main h3{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
+}
+
+#image-uploader{
+	border: 1px dotted #555;
+	height: 150px;
+	text-align: center;
+	line-height: 150px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
